@@ -28,12 +28,6 @@ yarn-error.*
 
 # macOS
 .DS_Store
-
-# Environment variables
-.env
-.env.local
-.env.production
-.env.staging
 *.pem
 
 # local env files
@@ -41,3 +35,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+app-example
